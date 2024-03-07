@@ -1,4 +1,8 @@
+# Print the required phrase 'Git is awesome!'
 print("Git is awesome!")
 
+# Ask the user to input a string. Save as 'user_input' variable.
 user_input = input("Enter a word or phrase to see me print it!")
-print("You asked me to print:", user_input)
+
+# Print the user's input
+print("You asked me to print: ", user_input)
