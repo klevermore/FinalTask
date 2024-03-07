@@ -1,3 +1,10 @@
+""" 
+This code is part of the requirement to pass the final coding challenge for the HyperionDev data science bootcamp.
+In this code we print a required phrase.
+Then we ask the user to input a phrase (string) and save it as a variable. 
+Then we print the variable back to the user. 
+"""
+
 # Print the required phrase 'Git is awesome!'
 print("Git is awesome!")
 
